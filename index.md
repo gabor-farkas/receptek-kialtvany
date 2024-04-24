@@ -12,7 +12,7 @@ _Használjuk SI mértékegységeket!_ Elfogadható még a kávéskanál, teáska
 
 ## Hozzávetőleges megjelölések
 * __Egy kevés olajban__ - kérjük kifejteni, hogy körülbelül mennyi a kevés. Egy evőkanál? Fél deci?
-* __Rövid ideig__ - jó de mégis mennyi? Fél perc? 5 perc?
+* __Rövid ideig__ - jó, de mégis mennyi? Fél perc? 5 perc?
 * __Zsemleszínűre__ - tessék már végigmenni egy üzleten és megnézni, hogy hányféle zsemle van.
 * __Amíg szépen megdagad__ - értjük, hogy több dologtól függ, hogy ez mennyi idő is lesz, de szeretnénk támpontokat kapni. A duplájára dagadjon? Keljen ki a tálból? Vagy elég ha 20-30%-ot növekszik a térfogata?
 
@@ -23,4 +23,4 @@ Ilyen hozzávetőleges megjelölések helyett nagy segítség, ha kapunk fixen �
 * __Összepároljuk__ - Itt is nagy segítség lenne látni, hogy ez amúgy 2-3 perc szokott-e lenni, vagy 10-20.
 
 ## Ráadás
-* __Ízlés szerint fűszerezzük__ - azért olvasok receptet, mert nem tudom, hogy hogyan kell főzni az adott ételt. Ha már van az adott étellel és a fűszerekkel is tapasztalatom, akkor majd megfűszerezem. De most azért olvasom a receptet, mert nincs. Kérek szépen kifejteni legalább egyféle fűszerezést, pontos mennyiségmegjelölésekkel!
+* __Ízlés szerint fűszerezzük__ - azért olvasok receptet, mert nem tudom, hogy hogyan kell főzni az adott ételt. Ha már van az adott étellel és a fűszerekkel is tapasztalatom, akkor majd megfűszerezem. De most azért olvasom a receptet, mert nincs. Kérek szépen kifejteni legalább egyféle fűszerezést, pontos mennyiség-megjelölésekkel!
